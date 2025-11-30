@@ -1,0 +1,53 @@
+header div:first-child{
+padding: 4%; 
+background: blue; 
+width: 35%; 
+float: left;}
+
+header div:nth-child(2)
+{padding: 4%; 
+background: green; 
+width: 35%; 
+float: left;}
+.clear{ clear: both;}
+
+nav{background-color: red; 
+padding: 0px; 
+margin:5px;}
+
+nav ul{
+margin: 0px; 
+padding: 0px;}
+
+nav ul li{
+margin: 5px; 
+padding: 10px; 
+float: left; 
+list-style: none;}
+
+nav ul li a{
+text-decoration: none; 
+background-color: yellow; 
+margin: 5px; 
+padding: 10px; 
+float: left;} 
+.clear{clear: both;}
+
+
+section div:first-child{
+padding: 5%; 
+background: 
+yellow; width:35%;
+float: left;}
+
+section div:nth-child(2){
+padding: 5%; 
+background: 
+grey; width:35%;
+float: left;}
+.clear{clear: both;}
+
+footer{padding: 3%; 
+background: green; 
+width: 100%; 
+float: left;}
